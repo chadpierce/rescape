@@ -1,0 +1,6 @@
+.DS_Store
+error.log
+go.mod
+go.sum
+rescape
+rescape-go
